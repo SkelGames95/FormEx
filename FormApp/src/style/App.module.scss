@@ -1,0 +1,12 @@
+.body{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+h1{
+    margin: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 48px;
+}
